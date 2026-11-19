@@ -23,6 +23,24 @@ Desenvolver uma ferramenta interativa que permita ao usuário simular estratégi
 
 ## Perfis de investimento
 
+## Demonstração visual
+
+### Composição patrimonial
+
+![Composição patrimonial](screenshots/composicao-patrimonial.png)
+
+### Perfil Conservador
+
+![Perfil Conservador](screenshots/conservador.png)
+
+### Perfil Moderado
+
+![Perfil Moderado](screenshots/moderado.png)
+
+### Perfil Agressivo
+
+![Perfil Agressivo](screenshots/agressivo.png)
+
 A ferramenta apresenta três modelos de distribuição:
 
 | Categoria | Conservador | Moderado | Agressivo |
